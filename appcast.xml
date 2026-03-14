@@ -3,6 +3,32 @@
     <channel>
         <title>KinoPub for macOS</title>
         <item>
+            <title>Version 1.1.1</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Что нового</h3>
+                <p><strong>Автообновления через Sparkle</strong></p>
+                <ul>
+                    <li>Обновления устанавливаются прямо из приложения — без ручного скачивания DMG</li>
+                    <li>Автоматическая проверка при запуске</li>
+                    <li>Ручная проверка в Settings → Check for Updates</li>
+                </ul>
+                <p><strong>Исправления</strong></p>
+                <ul>
+                    <li>Убрана серая полоска title bar в полноэкранном режиме плеера</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 15 Mar 2026 14:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Memetrix/kinopub-releases/releases/download/v1.1.1/KinoPub.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="WsArXfpeFGL0FZzLWBTQE6Ikub7CAW1G49/8z1Jb/It1to7QkNz7QBLBeaF6rClUpRudced6rsKTpoAwaKGmDA=="
+                length="2095164"
+            />
+        </item>
+        <item>
             <title>Version 1.1.0</title>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
