@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>KinoPub for macOS</title>
+        <item>
+            <title>Version 1.1.0</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Added Sparkle auto-update support — future updates install automatically</li>
+                    <li>Fixed gray title bar in fullscreen player mode</li>
+                    <li>Added server location selection (Russia/Netherlands) in Settings</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 15 Mar 2026 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Memetrix/kinopub-releases/releases/download/v1.1.0/KinoPub.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="QTbfrECXZE2bbOh5/WFV6sgW1IGtzZmE2uZhBSDhVnZ61a0He5dPUHnDZ8ap1fdwUe7sFnj4iZKe3J08EfmTBw=="
+                length="2095174"
+            />
+        </item>
+    </channel>
+</rss>
