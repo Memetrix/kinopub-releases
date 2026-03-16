@@ -3,6 +3,40 @@
     <channel>
         <title>KinoPub for macOS</title>
         <item>
+            <title>Version 1.2.0</title>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Что нового</h3>
+                <p><strong>Плеер и управление</strong></p>
+                <ul>
+                    <li>Плеер стал заметно стабильнее: быстрее overlay, нормальный fullscreen и меньше подвисаний при взаимодействии</li>
+                    <li>Добавлены Continue from / Start Over, адекватная перемотка и timeline scrub с геймпада</li>
+                    <li>Починены play/pause по клику, buffering state и работа меню качества, аудио и субтитров</li>
+                </ul>
+                <p><strong>Каталог и навигация</strong></p>
+                <ul>
+                    <li>Появились отдельные разделы Collections и History</li>
+                    <li>Поиск стал сильно богаче: фильтры, поле поиска и сортировка по IMDb / Kinopoisk</li>
+                    <li>Починены фокус, sidebar, fullscreen-хинты и поведение ввода на клавиатуре, мыши и геймпаде</li>
+                </ul>
+                <p><strong>Стабильность</strong></p>
+                <ul>
+                    <li>Нормально обрабатывается отвязка устройства и протухание device code</li>
+                    <li>Добавлен кеш постеров и ускорена загрузка Home</li>
+                    <li>Исправлен выбор server location и куча UI-багов по приложению</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 16 Mar 2026 20:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Memetrix/kinopub-releases/releases/download/v1.2.0/KinoPub.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="1cgztd+cxoUEULkMYpbE+62VTaYsO1s4oMmMIGsh9U1BdKtxgZR5oLrGBCj+G9ktG3clfWrUXQMgBKuQExX7Aw=="
+                length="2664136"
+            />
+        </item>
+        <item>
             <title>Version 1.1.1</title>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
