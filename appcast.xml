@@ -3,6 +3,29 @@
     <channel>
         <title>KinoPub for macOS</title>
         <item>
+            <title>Version 1.2.1</title>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Что нового</h3>
+<p><strong>Точечный фикс после 1.2.0</strong></p>
+<ul>
+  <li>На экране фильма/сериала кнопки Continue / Play / Start Over снова нормально доступны с клавиатуры и геймпада</li>
+  <li>В плеере overlay теперь скрывается по реальной неактивности, а не во время смены субтитров, качества или озвучки</li>
+  <li>Курсор снова прячется вместе с overlay</li>
+  <li>Для качества, аудио, субтитров и скорости появился нормальный прямой выбор вместо бесконечного циклического переключения</li>
+</ul>
+            ]]></description>
+            <pubDate>Fri, 20 Mar 2026 10:55:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Memetrix/kinopub-releases/releases/download/v1.2.1/KinoPub.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="d8XSR5+R/BrrjZtWs6CK4/Th0nBJa7+7E8q532SfxXjk4AwAl/mEF2yNt3bywZn4YueK0xI3f6FRC/Gfc5NLAA=="
+                length="3165812"
+            />
+        </item>
+        <item>
             <title>Version 1.2.0</title>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
