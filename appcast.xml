@@ -3,6 +3,27 @@
     <channel>
         <title>KinoPub for macOS</title>
         <item>
+            <title>Version 1.2.3</title>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Что нового</h3>
+<p><strong>Быстрый хотфикс после 1.2.2</strong></p>
+<ul>
+  <li>Исправлен Back на экране фильма/сериала — кнопка снова нормально нажимается мышкой</li>
+  <li>На экране привязки теперь можно кликнуть по коду и сразу скопировать его в буфер</li>
+</ul>
+            ]]></description>
+            <pubDate>Sun, 05 Apr 2026 13:36:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Memetrix/kinopub-releases/releases/download/v1.2.3/KinoPub.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="XPPVhYZZL6sutedfsyeAV5Jj4kZgTnk7zKD2DZMtTltRT6BCYosRs1dprQgjBkpYQTWdhk8rzDG7pDtLOLIIAw=="
+                length="2874114"
+            />
+        </item>
+        <item>
             <title>Version 1.2.2</title>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
