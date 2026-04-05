@@ -3,6 +3,33 @@
     <channel>
         <title>KinoPub for macOS</title>
         <item>
+            <title>Version 1.2.2</title>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Что нового</h3>
+<p><strong>Навигация и продолжение просмотра</strong></p>
+<ul>
+  <li>Кнопка Back снова нормально нажимается, и возврат тачпадом через свайп тоже работает стабильнее</li>
+  <li>Приложение снова корректно запоминает место просмотра, включая сериалы с сезонами и эпизодами</li>
+  <li>После выхода из плеера экран фильма сразу показывает свежий Continue from … вместо старого состояния</li>
+</ul>
+<p><strong>Плеер</strong></p>
+<ul>
+  <li>Исправлены подвисания overlay и поведение управления в плеере</li>
+  <li>Выбор качества, озвучки, субтитров и скорости стал стабильнее и предсказуемее</li>
+</ul>
+            ]]></description>
+            <pubDate>Sun, 05 Apr 2026 13:06:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Memetrix/kinopub-releases/releases/download/v1.2.2/KinoPub.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="yCy+B/w0vcC3/EnWAhUfhq4ptRohfSY40E/GGsd5DW7TJxvTeqMt9W3m3j3gIdI5tx7UdIA/ZfWvk+WbSzjuBQ=="
+                length="2868324"
+            />
+        </item>
+        <item>
             <title>Version 1.2.1</title>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
